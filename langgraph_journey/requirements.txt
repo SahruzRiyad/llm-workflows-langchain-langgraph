@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-community
+openai
+langchain-openai
+pygraphviz
+bs4
+duckduckgo-search
